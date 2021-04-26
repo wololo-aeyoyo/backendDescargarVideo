@@ -1,0 +1,20 @@
+{
+  "name": "youtube-descargar-y-otros",
+  "version": "1.0.0",
+  "description": "web app for youtube-dl",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube-dl"
+  ],
+  "author": "wololo-aeyoyo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^4.5.0",
+    "nconf": "^0.11.2",
+    "youtube-dl-exec": "^1.2.1"
+  }
+}
